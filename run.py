@@ -9,7 +9,8 @@ data = json.load(handle)
 
 print(
 '''
-Term-Dict (>__<)
+
+The py-dictionary (>__<)
 
 '''
     )

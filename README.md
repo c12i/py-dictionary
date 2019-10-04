@@ -18,7 +18,7 @@ Collins Muriuki
     * json: to install run `pip3 install json` in your terminal
     * difflib: to install run `pip3 install difflib` in your terminal
 
-## instructions and requirements
+## set-up instructions
 * Clone the project using the following command: `git clone https://github.com/collinsmuriuki/tictactoe.git` or download the zip file
 * Open your terminal and navigate to the directory  `/tictactoe` 
 * Run the following command to make the app executable on the terminal `chmod +x run.py` 
