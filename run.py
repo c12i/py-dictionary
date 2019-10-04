@@ -36,7 +36,7 @@ def search(word=input("Enter a word to search: ").lower()):
         # print(data[word])
         for w in data[word]:
             print("-" + w)
-        print("-----------------------------------------")
+            print("-----------------------------------------")
     elif len(close) > 0:
         # returns the value at index 0, the closest match
         print("-----------------------------------------")

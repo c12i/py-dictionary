@@ -5,7 +5,8 @@ A simple interactive English dictionary made using python 3.7.4.
 Search for words and get their definition.
 The dictionary provides smart word recommendations in case of any typo.
 
-![alt text](images/)
+![alt text](images/dict1.png)
+![alt text](images/dict2.png)
 
 ## author
 Collins Muriuki
@@ -21,6 +22,10 @@ Collins Muriuki
 * Open your terminal and navigate to the directory  `/tictactoe` 
 * Run the following command to make the app executable on the terminal `chmod +x run.py` 
 * To start the dictionary app, run the command `./run.py`
+
+## bugs
+* Issue finding titled cased words such as names of coutries or cities e.g Paris
+* The app does not return definitions for acronyms such as USA and NATO
 
 ## license
 
