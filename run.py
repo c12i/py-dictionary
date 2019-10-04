@@ -10,7 +10,11 @@ data = json.load(handle)
 print(
 '''
 
-The py-dictionary (>__<)
+The py-dictionary
+
+(\__/) || 
+(•ㅅ•) || 
+/ 　 づ
 
 '''
     )
@@ -19,13 +23,13 @@ print(
 '''
 A handy dictinary tool accessed through the terminal:
 
-=====================
-|                   |
-|                   |
-|    DICTIONARY     |
-|                   |
-|                   |
-=====================
+    =====================
+    |                   |
+    |                   |
+    |    DICTIONARY     |
+    |                   |
+    |                   |
+    =====================
 '''
     )
 
