@@ -10,26 +10,14 @@ data = json.load(handle)
 print(
 '''
 
-The py-dictionary
+█ ▄▄ ▀▄    ▄ ██▄   ▄█ ▄█▄      ▄▄▄▄▀ ▄█ ████▄    ▄   ██   █▄▄▄▄ ▀▄    ▄ 
+█   █  █  █  █  █  ██ █▀ ▀▄ ▀▀▀ █    ██ █   █     █  █ █  █  ▄▀   █  █  
+█▀▀▀    ▀█   █   █ ██ █   ▀     █    ██ █   █ ██   █ █▄▄█ █▀▀▌     ▀█   
+█       █    █  █  ▐█ █▄  ▄▀   █     ▐█ ▀████ █ █  █ █  █ █  █     █    
+ █    ▄▀     ███▀   ▐ ▀███▀   ▀       ▐       █  █ █    █   █    ▄▀     
+  ▀                                           █   ██   █   ▀            f
 
-(\__/) || 
-(•ㅅ•) || 
-/ 　 づ
-
-'''
-    )
-
-print(
-'''
 A handy dictinary tool accessed through the terminal:
-
-    =====================
-    |                   |
-    |                   |
-    |    DICTIONARY     |
-    |                   |
-    |                   |
-    =====================
 '''
     )
 
@@ -51,7 +39,7 @@ def search(word=input("Enter a word to search: ").lower()):
             # print(data[word])
             for w in data[word]:
                 print("-" + w)
-            print("-----------------------------------------")
+                print("-----------------------------------------")
         elif response.startswith("n"):
             print("The word does not exist, please check again.")
             print("-----------------------------------------")
