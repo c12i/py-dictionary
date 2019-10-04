@@ -39,7 +39,7 @@ def search(word=input("Enter a word to search: ").lower()):
         print("-----------------------------------------")
     elif len(close) > 0:
         # returns the value at index 0, the closest match
-        print("------------------")
+        print("-----------------------------------------")
         response = input("Oops, did you mean {} instead? Enter 'Y' if yes and 'N' if no: ".format(close[0])).lower()
         if response.startswith("y"):
             word = close[0]
