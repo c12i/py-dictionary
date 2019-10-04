@@ -7,6 +7,7 @@ The dictionary provides smart word recommendations in case of any typo.
 
 ![alt text](images/dict1.png)
 ![alt text](images/dict2.png)
+![alt text](images/dict3.png)
 
 ## author
 Collins Muriuki
