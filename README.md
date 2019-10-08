@@ -19,8 +19,8 @@ Collins Muriuki
     * difflib: to install run `pip3 install difflib` in your terminal
 
 ## set-up instructions
-* Clone the project using the following command: `git clone https://github.com/collinsmuriuki/tictactoe.git` or download the zip file
-* Open your terminal and navigate to the directory  `/tictactoe` 
+* Clone the project using the following command: `git clone https://github.com/collinsmuriuki/py-dictionary.git` or download the zip file
+* Open your terminal and navigate to the directory  `/py-dictionary` 
 * Run the following command to make the app executable on the terminal `chmod +x run.py` 
 * To start the dictionary app, run the command `./run.py`
 
